@@ -1,0 +1,122 @@
+[
+    {
+        "姓名": "李明",
+        "年齡": 28,
+        "性別": "男",
+        "詳細資料": "李明是一名在大型企業工作的行銷專員，常感到工作壓力大，經常加班，導致身心疲憊。他在職場上面臨競爭，對自己的能力產生懷疑，並且經常與同事產生摩擦。",
+        "提問": "如何減少工作壓力並提高自信心？",
+        "職業": "行銷專員",
+        "尋求諮商的原因": "感到焦慮和壓力過大。",
+        "patterns": ["Overgeneralization", "Emotional Reasoning"],
+        "CBT-technique": ["Cognitive Restructuring", "Behavioral Activation"],
+        "CBT-plan": "設定小目標以增強自信，並制定時間管理計畫以減少壓力。"
+    },
+    {
+        "姓名": "張華",
+        "年齡": 34,
+        "性別": "女",
+        "詳細資料": "張華是一名全職媽媽，近期感到孤獨和焦慮。她對於與朋友的社交活動感到不安，並常常懷疑自己是否足夠稱職。",
+        "提問": "如何重新建立自信並改善社交焦慮？",
+        "職業": "全職媽媽",
+        "尋求諮商的原因": "感到孤獨和焦慮。",
+        "patterns": ["Blaming", "Unrealistic Expectations"],
+        "CBT-technique": ["Exposure Therapy", "Self-Monitoring"],
+        "CBT-plan": "設計逐步社交活動計畫，並定期記錄情緒變化。"
+    },
+    {
+        "姓名": "王偉",
+        "年齡": 45,
+        "性別": "男",
+        "詳細資料": "王偉在一家醫療機構工作，近來因為工作上的變動而感到沮喪。他經常回顧過去的成功，對未來感到迷茫。",
+        "提問": "如何調整對未來的看法？",
+        "職業": "醫療工作者",
+        "尋求諮商的原因": "對未來感到不安和沮喪。",
+        "patterns": ["Fact Ignoring", "Emotional Reasoning"],
+        "CBT-technique": ["Cognitive Restructuring", "Problem-Solving"],
+        "CBT-plan": "分析未來的可能性並制定具體行動計畫。"
+    },
+    {
+        "姓名": "劉婷婷",
+        "年齡": 26,
+        "性別": "女",
+        "詳細資料": "劉婷婷是一名大學研究生，面對學業和生活的壓力，感到焦慮。她常常擔心自己的成績不佳，並對未來感到迷茫。",
+        "提問": "如何提升學業成就並減少焦慮？",
+        "職業": "研究生",
+        "尋求諮商的原因": "感到學業壓力和焦慮。",
+        "patterns": ["Unrealistic Expectations", "Overgeneralization"],
+        "CBT-technique": ["Behavioral Activation", "Self-Monitoring"],
+        "CBT-plan": "制定學習計畫，並進行定期自我反思。"
+    },
+    {
+        "姓名": "陳志明",
+        "年齡": 38,
+        "性別": "男",
+        "詳細資料": "陳志明是一名中學教師，近來對教學失去熱情，感到疲憊。他對於學生的表現過於在意，影響了自己的情緒。",
+        "提問": "如何重新找回對教學的熱情？",
+        "職業": "中學教師",
+        "尋求諮商的原因": "對教學失去熱情。",
+        "patterns": ["Blaming", "Fact Ignoring"],
+        "CBT-technique": ["Emotional Regulation", "Cognitive Restructuring"],
+        "CBT-plan": "反思教學方法，尋找讓自己重新投入的方式。"
+    },
+    {
+        "姓名": "周美玲",
+        "年齡": 29,
+        "性別": "女",
+        "詳細資料": "周美玲在職場上經歷了離職，對於未來的工作感到焦慮。她經常思考自己過去的錯誤，影響了自信。",
+        "提問": "如何克服對過去的懷疑？",
+        "職業": "行銷專員",
+        "尋求諮商的原因": "對未來感到不安。",
+        "patterns": ["Overgeneralization", "Emotional Reasoning"],
+        "CBT-technique": ["Cognitive Restructuring", "Behavioral Experiments"],
+        "CBT-plan": "逐步面對求職的挑戰，並學會接受自己的不完美。"
+    },
+    {
+        "姓名": "林建宏",
+        "年齡": 31,
+        "性別": "男",
+        "詳細資料": "林建宏是一名軟體工程師，常感到工作與生活失去平衡。他對於加班感到不滿，但又害怕失去工作。",
+        "提問": "如何改善工作與生活的平衡？",
+        "職業": "軟體工程師",
+        "尋求諮商的原因": "工作壓力與生活不平衡。",
+        "patterns": ["Unrealistic Expectations", "Fact Ignoring"],
+        "CBT-technique": ["Behavioral Activation", "Problem-Solving"],
+        "CBT-plan": "設計時間分配表以平衡工作和生活。"
+    },
+    {
+        "姓名": "蔡淑芬",
+        "年齡": 42,
+        "性別": "女",
+        "詳細資料": "蔡淑芬是一名自由工作者，常感到孤獨，且對自己的創作能力缺乏信心。她的作品經常因自我懷疑而延遲發佈。",
+        "提問": "如何克服創作的自我懷疑？",
+        "職業": "自由工作者",
+        "尋求諮商的原因": "感到孤獨和創作焦慮。",
+        "patterns": ["Blaming", "Emotional Reasoning"],
+        "CBT-technique": ["Cognitive Restructuring", "Self-Monitoring"],
+        "CBT-plan": "設計創作進度表並反思自己的創作價值。"
+    },
+    {
+        "姓名": "高志遠",
+        "年齡": 36,
+        "性別": "男",
+        "詳細資料": "高志遠是一名健身教練，對於自身的身材感到焦慮。他經常將自己的身材與他人比較，影響了自信心。",
+        "提問": "如何提升自我形象和自信心？",
+        "職業": "健身教練",
+        "尋求諮商的原因": "對自身形象感到焦慮。",
+        "patterns": ["Overgeneralization", "Unrealistic Expectations"],
+        "CBT-technique": ["Emotional Regulation", "Cognitive Restructuring"],
+        "CBT-plan": "建立健康的自我評價系統，並定期進行自我反思。"
+    },
+    {
+        "姓名": "徐小雅",
+        "年齡": 27,
+        "性別": "女",
+        "詳細資料": "徐小雅在一家科技公司任職，經常面對升遷壓力，感到焦慮。她對未來的職業道路感到迷茫，並經常自我懷疑。",
+        "提問": "如何提升自信並清晰自己的職業目標？",
+        "職業": "科技公司員工",
+        "尋求諮商的原因": "對職業生涯感到焦慮。",
+        "patterns": ["Emotional Reasoning", "Blaming"],
+        "CBT-technique": ["Problem-Solving", "Self-Monitoring"],
+        "CBT-plan": "制定清晰的職業發展計畫，並進行定期的自我評估。"
+    }
+]
