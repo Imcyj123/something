@@ -157,3 +157,35 @@ CBT計劃建議
 [使用回應 1生成5個資料集並寫成json檔案](https://github.com/Imcyj123/something/blob/master/gpt_dataset/response1-5data.txt)
 
 [使用回應 2生成5個資料集並寫成json檔案](https://github.com/Imcyj123/something/blob/master/gpt_dataset/response2-5data.txt)
+
+
+### user
+
+```
+心理諮商病患資料模板 
+請幫我分析以下病患的資訊並提供建議： 
+姓名： [填寫姓名] 
+年齡： [填寫年齡] 
+性別： [填寫性別] 
+詳細資料： [填寫至少100字的病患背景、情感狀況及生活環境等] 
+提問： [填寫病患的特定問題或擔憂] 
+職業： [填寫職業] 
+尋求諮商的原因： [填寫病患尋求諮商的動機和期望] 
+態度： [選擇一個：正面 / 負面] 
+談話風格： [選擇一個：Plain / Upset / Verbose / Reserved / Tangent / Pleasing] 
+patterns： [選擇一個或多個： Overgeneralization / Emotional Reasoning / Blaming / Unrealistic Expectations / Fact Ignoring] 
+CBT-technique： [選擇一個或多個技術：Cognitive Restructuring / Behavioral Experiments / Exposure Therapy / Emotional Regulation / Self-Monitoring / Behavioral Activation / Problem-Solving] 
+CBT-plan： [填寫具體的認知行為療法計劃，包含短期和長期目標及方法] 
+```
+
+#### demo1.json
+`詳細資料至少100字`
+[生成10個個案 並寫成一個JSON檔案](https://github.com/Imcyj123/something/blob/master/gpt_dataset/%E5%AE%8C%E6%95%B4%E8%B3%87%E6%96%99demo1.json)
+
+#### demo2.json
+`詳細資料至少200字`
+[生成10個個案 並寫成一個JSON檔案](https://github.com/Imcyj123/something/blob/master/gpt_dataset/%E5%AE%8C%E6%95%B4%E8%B3%87%E6%96%99demo2.json)
+
+#### demo3.json
+`詳細資料至少300字`
+[生成10個個案 並寫成一個JSON檔案](https://github.com/Imcyj123/something/blob/master/gpt_dataset/%E5%AE%8C%E6%95%B4%E8%B3%87%E6%96%99demo3.json)
